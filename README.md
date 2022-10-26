@@ -1,11 +1,12 @@
 # try-n-buy
-##Features
+## Features
   1. User can try the product first, before actually purchasing.
   2. SignIn-SignUp enabled.
   3. Dashboard
   4. Update Cart
   5. Payment
-##Tech-Stack:
+ 
+## Tech-Stack:
   Back-end:\
    MongoDB: Document database to store user data\
    NodeJS: Runtime environment for javascript\

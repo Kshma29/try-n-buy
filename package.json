@@ -1,0 +1,17 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start-server": "nodemon server.js"
+  },
+  "author": "Kshma Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.6",
+    "nodemon": "^2.0.20"
+  }
+}
